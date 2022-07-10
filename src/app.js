@@ -13,7 +13,7 @@ export default function App() {
             title={entry.title}
             price={entry.price}
             openSpots={entry.openSpots}
-        />)
+        />);
     });
     return (
         <div className="container">
