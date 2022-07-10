@@ -1,5 +1,5 @@
 # Airbnb-Clone
-Clone of AIrbnb built in React
+Clone of a static Airbnb built in React
 
 ## Available Scripts
 
